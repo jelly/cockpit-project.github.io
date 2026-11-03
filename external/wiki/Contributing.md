@@ -13,7 +13,7 @@ Since you're considering contributing, you are likely already using Cockpit. If 
  * Check out the [git repo](https://github.com/cockpit-project/cockpit), learn how to build it and run it. Change a string in the code somewhere and make sure you can see the change in the browser. See [HACKING.md]({{ site.baseurl }}/external/source/HACKING.html) for details.
  * Keep in mind the [project ideals]({{ site.baseurl }}/ideals.html)
  * If you are looking for someplace to start developing, issues are marked [with a good-first-issue label](https://github.com/cockpit-project/cockpit/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue) when they are a good introduction to Cockpit and of limited scope.
- * [Documentation]({{ site.baseurl }}/guide/latest/) (be aware: possible version differences)
+ * [Documentation](https://docs.cockpit-project.org/cockpit-guide/latest/guide/index.html)
  * [Set up integration tests](https://github.com/cockpit-project/cockpit/blob/master/test/README.md). Automated tests are an important part of Cockpit and every new feature should be accompanied by its tests.
  * Join the project's [GitHub Discussions page](https://github.com/cockpit-project/cockpit/discussions) to connect with the community, ask questions, and participate in discussions about the project's development and features.
 
@@ -28,7 +28,7 @@ Modify the project in your own fork and issue a pull request once you want other
 ### Source code
 Cockpit encompasses different languages and is developed by multiple developers. When contributing, please adhere to the [coding style guidelines](Cockpit-Coding-Guidelines).
 
-Here is a detailed description of the [commit workflow](Workflow) (including [review criteria](/external/wiki/Workflow#review-criteria)) and as an example, [how @mvollmer merges pull requests](https://github.com/cockpit-project/cockpit/wiki/How-@mvollmer-merges-pull-requests).
+Here is a detailed description of the [commit workflow](Workflow) (including [review criteria](/external/wiki/Workflow#review-criteria)).
 
 ### Contact the developers
 
